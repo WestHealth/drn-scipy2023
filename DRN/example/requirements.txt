@@ -1,0 +1,6 @@
+pyvis
+numpy
+pandas
+networkx
+colorcet
+toolz
